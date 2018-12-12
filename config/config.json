@@ -4,10 +4,16 @@
       "entry": "./lib/webparts/employeeData/EmployeeDataWebPart.js",
       "manifest": "./src/webparts/employeeData/EmployeeDataWebPart.manifest.json",
       "outputPath": "./dist/employee-data-web-part.js"
+    },
+    {
+      "entry": "./lib/webparts/employeeDetails/EmployeeDetailsWebPart.js",
+      "manifest": "./src/webparts/employeeDetails/EmployeeDetailsWebPart.manifest.json",
+      "outputPath": "./dist/employee-details-web-part.js"
     }
   ],
   "externals": {},
   "localizedResources": {
-    "EmployeeDataWebPartStrings": "webparts/employeeData/loc/{locale}.js"
+    "EmployeeDataWebPartStrings": "webparts/employeeData/loc/{locale}.js",
+    "EmployeeDetailsWebPartStrings": "webparts/employeeDetails/loc/{locale}.js"
   }
 }

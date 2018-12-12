@@ -5,7 +5,7 @@
     "libraryId": "ee2c5365-4e2d-49fc-b8a5-598c2eb947e2",
     "environment": "onprem",
     "packageManager": "npm",
-    "isCreatingSolution": true,
-    "componentType": "webpart"
+    "isCreatingSolution": false,
+    "componentType": "extension"
   }
 }

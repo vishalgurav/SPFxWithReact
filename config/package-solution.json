@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-with-react-client-side-solution",
+    "id": "ee2c5365-4e2d-49fc-b8a5-598c2eb947e2",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-with-react.sppkg"
+  }
+}
